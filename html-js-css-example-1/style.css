@@ -1,0 +1,17 @@
+#myDiv {
+	border: 10px rgb(122, 202, 17) solid;
+}
+
+#myInsideDiv {
+	border: 10px rgb(42, 10, 185) solid;
+}
+
+#reallyOldButton {
+	background-color: cyan;
+}
+
+#newBSButton {
+	margin-top: 40px;
+	margin-left: 120px;
+	font-weight: bold;
+}

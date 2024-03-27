@@ -1,0 +1,12 @@
+#menuArea {
+	border: 10px red solid;
+}
+
+#header {
+	border: 5px blue dotted;
+}
+
+#ourButton {
+	background-color: blue;
+	color: yellow;
+}
